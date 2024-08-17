@@ -12,7 +12,8 @@
 
   I am a java fullstack web developer enthusiast with a keen interest in Java programming. 
   
-  👯 I’m looking to collaborate on:<br><br>Projects related to database engineer, frontend developer and backend developer. I am always looking to collaborate with like-minded individuals who are passionate about these fields.<br>SQL database management and querying.<br>Java programming and application development.<br>I am always happy to share my knowledge and insights on these topics.<br>I love playing cricket 
+  👯 I’m looking to collaborate on:<br><br>Projects related to database engineer, frontend developer and backend developer. I am always looking to collaborate with like-minded individuals who are passionate about these fields.<br>SQL database management and querying.<br>Java programming and application development.<br>
+  Webapp developing. <br>I am always happy to share my knowledge and insights on these topics.<br>I love playing cricket 
   
   </div>
  
